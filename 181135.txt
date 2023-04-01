@@ -28,4 +28,21 @@ git remote add origin https://github.com/Prutrok/Prutrok-SI_2023_lab1_181135.git
 // По грешка ги имав тука ставено и промените од bug1, направив и втор commit за да го поправам тоа.
 14.git checkout bug3
 15.Поправена грешката (*= заменето со +=). Направено commit
-16.
+16.Направена синхронизација на сите гранки со fetch и pull
+17.git checkout master
+18.Споени bug1 и мастер со git merge 
+// Искористено Fast-forward merging, changes pushed afterwards
+19.Сите гранки синхронизирани
+20.Споени bug2 и master со git merge
+//Merged with 'ort' strategy
+21.Synced
+22.Префлање на bug3 со Git checkout bug3
+23.Направено rebase према master
+24.Префрлање на master
+25.Спојување на master i bug3 со merge
+// ort
+26.Synced, никаков проблем
+27.Креирани и додадени logs и index.txt
+// Логовите се добиени со користење git log
+// Дополнителен commit за да се доврши документацијата до овој момент.
+28.

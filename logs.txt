@@ -1,0 +1,55 @@
+C:\Users\Prutrok\Desktop\Prutrok\Uni stuff\SI\SI_2023_lab1_181135>git log
+commit a2df4d5ebb272f860dd8d8a11af1a3dc8380ed40 (HEAD -> master, origin/master, bug3, bug2, bug1)
+Merge: e79cbaa 28b1e6d
+Author: PredragM <pepi.gv@gmail.com>
+Date:   Sat Apr 1 14:29:00 2023 +0200
+
+    Merge branch 'bug3'
+
+commit e79cbaa017838c05b053465437e3bdd8c2ab4d2f
+Merge: 2cc6b25 752828b
+Author: PredragM <pepi.gv@gmail.com>
+Date:   Sat Apr 1 14:28:10 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 28b1e6d042a4eadb781e41d5fe187c2f8469f434
+Author: PredragM <pepi.gv@gmail.com>
+Date:   Sat Apr 1 13:19:52 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 752828be60128aaab84b511d933f6e61bde5d6f0
+Author: PredragM <pepi.gv@gmail.com>
+Date:   Sat Apr 1 13:17:50 2023 +0200
+
+    Fixed branching error on bug2
+
+commit 5762c316ecb083a43dd816eb891915da5707e455
+Author: PredragM <pepi.gv@gmail.com>
+Date:   Sat Apr 1 13:15:55 2023 +0200
+    Fix wrong condition in filterOddNumbers.
+
+commit 2cc6b25a5d0976b7962109201a78257c8e89253c
+Author: PredragM <pepi.gv@gmail.com>
+Date:   Sat Apr 1 13:13:31 2023 +0200
+
+    Fix wrong loop for reading.
+
+commit a60ae00f09e34150d7104427c30fd38779e45477
+Author: PredragM <pepi.gv@gmail.com>
+Date:   Sat Apr 1 12:37:02 2023 +0200
+
+    Modified readme
+
+commit 86b67b08e34b4f5b443e5e064139989a0e4facba
+Author: PredragM <pepi.gv@gmail.com>
+Date:   Sat Apr 1 12:29:31 2023 +0200
+
+    Add java class
+
+commit 8369507dbaa8cf363a6ad105a5a0c386ee771002
+Author: PredragM <pepi.gv@gmail.com>
+Date:   Sat Apr 1 11:46:50 2023 +0200
+
+    Initial commit

@@ -1,0 +1,31 @@
+Предраг Марковиќ 181135 Лаб1
+
+Документација за изведбата на лабараториската вежба
+
+1.Git инсталиран, креиран профил
+2.Променето името во master
+3.Креирано Remote Repo "SI_2023_lab1_181135"
+4.Направено локално repo со истото име
+// git init употребено како команда за иницијализација на repoto, 
+5.Поврзан локалниот repo со remote repo 
+// C:\Users\Prutrok\Desktop\Prutrok\Uni stuff\SI\SI_2023_lab1_181135>
+git remote add origin https://github.com/Prutrok/Prutrok-SI_2023_lab1_181135.git
+6.Креиран readme.md фајл, модифициран според инструкциите и потоа додаден на remote repo
+// echo "# Prutrok-SI_2023_lab1_181135" >> README.md
+// git add README.md
+// git commit -m "Intial commit"
+// Тука е initial commit-от, подоцна правам и "modified readme" commit поради мала грешка
+7. Креирана java класа со наведената содржина, додадена како втор commit на repo-то.
+// git add SILab1.java
+// git commit -m "Add java class"
+// git push -u origin master
+8. Синхронизирани сите гранки.
+9. Креирани 3 нови гранки со git branch ( bug1, bug2, bug3)
+10.git checkout bug1
+11.Поправена грешката (<= заменето со <). Направено commit
+12.git checkout bug2
+13.Поправена грешката ( == 0 заменето со !=0 ). Направено commit со соодветна порака
+// По грешка ги имав тука ставено и промените од bug1, направив и втор commit за да го поправам тоа.
+14.git checkout bug3
+15.Поправена грешката (*= заменето со +=). Направено commit
+16.
